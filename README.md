@@ -23,3 +23,9 @@ We are providing the slides we use in both Keynote (Mac) and PDF formats. You ca
    [5]: http://drupal.org/core-mentoring/mentor-resources
    
 Please feel free to fork this, and use it however you want. If you have improvements that would benefit the general curriculum we have here, please create a pull request for us to review and incorporate.
+
+**License**
+
+This curriculum is made freely available under the [Creative Commons Attribution-ShareAlike 3.0 license][6]. You are free to use, share, and modify this work, but you must give Drupalize.Me (http://drupalize.me) attribution, and you must share your modified work under this same license.
+
+  [6]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US)
