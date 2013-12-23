@@ -25,6 +25,6 @@ We're also looking for volunteers to help attendees get their local host ready t
 
 **Requirements**
 
-- While not absolutley required participants will get the most out of this workshop if they are able to bring a laptop which they can install software on since a large part of the workshop will focus on helping participants get a local development environment setup.
+- While not absolutely required participants will get the most out of this workshop if they are able to bring a laptop which they can install software on since a large part of the workshop will focus on helping participants get a local development environment setup.
 
 - A basic understanding of Drupal, and simple Drupal site administration tasks is assumed.
