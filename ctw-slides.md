@@ -76,7 +76,7 @@ Note: using the groups tab makes it easier to refine groups search instead of ju
 ------
 ## drupalladder.org 
 
-![drupallader.org](assets/websites-drupallader.png)
+![drupallader.org](assets/websites-drupalladder.png)
 
 ------
 ## Drupal.org Account
