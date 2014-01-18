@@ -29,43 +29,54 @@ Note: What OS are people on? What “category” : site builder, dev, themer, de
 ------
 ## drupal.org 
 
-![drupal.org](websites-do.jpg)
+![drupal.org](websites-do.png)
 
 
 ------
 ## groups.drupal.org 
 
-![groups.drupal.org](websites-gdo.jpg)
+![groups.drupal.org](websites-gdo.png)
 
 Note: Not everyone looks at the tabs at the top. You can find events here.
 
 ------
 ## Searching groups.drupal.org 
 
-![groups.drupal.org refine your keyword search](websites-gdo-searching.jpg)
+![groups.drupal.org refine your keyword search](websites-gdo-searching-events.png)
+
+Search for events
+
+Note: using the groups tab makes it easier to refine groups search instead of just keyword search
+
+------
+## Searching groups.drupal.org 
+
+![groups.drupal.org refine your keyword search](websites-gdo-searching-groups.png)
+
+Search for groups 
 
 Note: using the groups tab makes it easier to refine groups search instead of just keyword search
 
 ------
 ## Working and regional Groups and Meetups 
 
-![g.d.o groups](websites-gdo-groups.jpg)
+![g.d.o groups](websites-gdo-groups.png)
 
 
 ------
 ## api.drupal.org 
 
-![api.drupal.org](websites-api.do.jpg)
+![api.drupal.org](websites-api.do.png)
 
 ------
 ## association.drupal.org 
 
-![association.drupal.org](websites-ado.jpg)
+![association.drupal.org](websites-ado.png)
 
 ------
 ## drupalladder.org 
 
-![drupallader.org](websites-drupallader.jpg)
+![drupallader.org](websites-drupallader.png)
 
 ------
 ## Drupal.org Account
@@ -80,7 +91,7 @@ Also gets you in to:
 ------
 ## Activity: Create a d.o account
 
-![drupal.org/user](websites-do-create-account.jpg)
+![drupal.org/user](websites-do-create-account.png)
 
 
 ====================================
