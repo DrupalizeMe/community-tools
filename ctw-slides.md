@@ -113,7 +113,7 @@ Note: This is all a brief tour of the core issue queue and hands-on creating an 
 ======================================
 
 -----
-## IRC (`Internet Relay Chat)
+## IRC (Internet Relay Chat)
 
 Real time communication with other Drupal developers around the world.
 
