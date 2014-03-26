@@ -133,14 +133,11 @@ Real time communication with other Drupal developers around the world.
 -----
 ## IRC Clients
 
-Web-based clients
-
-- webchat.freenode.net
-
-Application clients
-
-- Pidgin (Adium on Mac) - pidgin.im
-- ChatZilla (Firefox extension)
+- Web-based clients
+    - webchat.freenode.net
+- Application clients
+    - Pidgin (Adium on Mac) - pidgin.im
+    - ChatZilla (Firefox extension)
 
 -----
 ## Network
