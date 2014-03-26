@@ -176,7 +176,7 @@ Note: Digital identity in IRC isn’t like web sites. You can log in to a system
 Let's start chatting!
 
 - Network: irc.freenode.net
-- Channel: #drupalladder
+- Channel: #drupal-ladder
 
 Note: Give everyone a few minutes to get logged in and type a "hello" message into the channel.
 
