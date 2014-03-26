@@ -103,7 +103,7 @@ For groups 2-4, have people get up and move to the same table(s) so that they ar
 [5]: http://drupalladder.org
 [6]: http://drupalladder.org/lesson/1d498fa2-d3e4-5754-9160-757d219e8032
 [7]: http://drupalize.me/videos/getting-started-issue-queue
-[8]: http://drupal.org/project/dreditor
+[8]: https://dreditor.org/
 [9]: http://drupalize.me/videos/installing-and-using-dreditor
 [10]: http://drupalize.me/videos/using-irc-internet-relay-chat
 [11]: http://drupal.org/irc/setting-up

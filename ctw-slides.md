@@ -108,7 +108,7 @@ Note: This is all a brief tour of the core issue queue and hands-on creating an 
 
 - Makes the issue queue easier to work with
 - Is a browser user script (not a module)
-- http://drupal.org/project/dreditor
+- https://dreditor.org/
 
 ======================================
 
