@@ -31,13 +31,14 @@ Note: What OS are people on? What “category” : site builder, dev, themer, de
 
 ![drupal.org](assets/websites-do.png)
 
+Note: This is where the work of the Drupal Community lives. Code, handbooks, support forums, and issue queues — all contributed by the community — live here on drupal.org.
 
 ------
 ## groups.drupal.org 
 
 ![groups.drupal.org](assets/websites-gdo.png)
 
-Note: Not everyone looks at the tabs at the top. You can find events here.
+Note: This is where you can look for events, regional and working groups, and jobs in the Drupal community. You can use a keyword search or the tabs at the top of the page which provide specific filters.
 
 ------
 ## Searching groups.drupal.org 
@@ -46,7 +47,7 @@ Note: Not everyone looks at the tabs at the top. You can find events here.
 
 Search for events
 
-Note: using the groups tab makes it easier to refine groups search instead of just keyword search
+Note: using the events tab makes it easier to find events instead of just a keyword search
 
 ------
 ## Searching groups.drupal.org 
@@ -55,33 +56,42 @@ Note: using the groups tab makes it easier to refine groups search instead of ju
 
 Search for groups 
 
-Note: using the groups tab makes it easier to refine groups search instead of just keyword search
+Note: using the groups tab makes it easier to refine groups instead of just keyword search
 
 ------
 ## Working and regional Groups and Meetups 
 
 ![g.d.o groups](assets/websites-gdo-groups.png)
 
+Note: A good place to start on g.d.o is to search for a group in your geographical area. Other types of groups are those formed around the intersection of Drupal and another area of common ground, for example, Drupal in Higher Education. Working groups also exist where discussion and information about technical projects are organized.
 
 ------
 ## api.drupal.org 
 
 ![api.drupal.org](assets/websites-api.do.png)
 
+Note: This is where the code documentation in Drupal lives. This is where you would find the specifics about how to implement the Drupal API in your code or better understand how the code works in Drupal.
+
 ------
 ## association.drupal.org 
 
 ![association.drupal.org](assets/websites-ado.png)
+
+Note: The Drupal Association exists to support the Drupal community. It doesn't steer the technical direction of Drupal, but provides the support and infrastructure to run drupal.org, g.d.o, association.drupal.org, api.drupal.org, and the DrupalCon websites. It also provides a necessary fiscal entity that is used by the community and organizes DrupalCon.
 
 ------
 ## drupalladder.org 
 
 ![drupallader.org](assets/websites-drupalladder.png)
 
+Note: This is not a Drupal Association supported website but was brought about by members of the Drupal community who are passionate about educating people on how to contribute to Drupal.
+
 ------
 ## drupalmentoring.org 
 
 ![drupalmentoring.org](assets/websites-core-mentoring.png)
+
+Note: This is also not a Drupal Association supported website, but is the home of Core Mentors. Drupal core mentors inspire, enable, and encourage new core contributors. They also work on the core tools, process, and community to make it easier for new contributors to get involved.
 
 ------
 ## Drupal.org Account
