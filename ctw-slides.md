@@ -282,8 +282,13 @@ http://groups.drupal.org/node/48818
 - Do you have AMP installed?
 
 ------
-## Quick Summary
+## Demonstration
 
+- Installing BTSync
+- Running through installation
+
+------
+## Install fest
 Install AMP Stack Git and Drupal 8
 
 - https://drupal.org/dctdi
