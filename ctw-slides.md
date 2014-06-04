@@ -22,8 +22,6 @@ Note: These slides go with the Community Tools curriculum which can be found at 
 Note: What OS are people on? What “category” : site builder, dev, themer, designer
 
 ====================================
-
-------
 ## Community Websites
 
 ------
@@ -103,8 +101,6 @@ Also gets you in to:
 
 
 ====================================
-
-------
 ## The Issue Queue
 
 The community todo list
@@ -119,8 +115,13 @@ Note: This is all a brief tour of the core issue queue and hands-on creating an 
 - https://dreditor.org/
 
 ======================================
+## Getting All the Files
 
------
+- Installing BTSync
+- https://drupal.org/dctdi
+
+
+======================================
 ## IRC (Internet Relay Chat)
 
 Real time communication with other Drupal developers around the world.
@@ -193,8 +194,6 @@ Note: Give everyone a few minutes to get logged in and type a "hello" message in
 Note: There will be lots of conversations happening at the same time in a channel. Using a person’s name helps to track the conversation. Starting a conversation. Private conversations.
 
 =======================================
-
------
 ## Local Dev Environment
 
 Not just for programmers
@@ -237,8 +236,6 @@ You need a web stack with the following components:
 - Ubuntu: Bitnami Drupal Stack
 
 =========================================
-
------
 ## Version Control and Git
 
 -----
@@ -264,8 +261,6 @@ The Drupal.org community uses it<br>
 http://groups.drupal.org/node/48818
 
 =========================================
-
------
 ## What We're Doing
 
 - Optionally install an IRC Client
@@ -284,7 +279,6 @@ http://groups.drupal.org/node/48818
 ------
 ## Demonstration
 
-- Installing BTSync
 - Running through installation
 
 ------
