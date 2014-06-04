@@ -16,14 +16,12 @@ Note: These slides go with the Community Tools curriculum which can be found at 
     - Issue queues
     - IRC
 - Local development environment
-   - AMP stack
+   - Web Stack
    - Git
 
 Note: What OS are people on? What “category” : site builder, dev, themer, designer
 
 ====================================
-
-------
 ## Community Websites
 
 ------
@@ -59,7 +57,7 @@ Search for groups
 Note: using the groups tab makes it easier to refine groups instead of just keyword search
 
 ------
-## Working and regional Groups and Meetups 
+## Working and regional Groups<br>and Meetups
 
 ![g.d.o groups](assets/websites-gdo-groups.png)
 
@@ -87,13 +85,6 @@ Note: The Drupal Association exists to support the Drupal community. It doesn't 
 Note: This is not a Drupal Association supported website but was brought about by members of the Drupal community who are passionate about educating people on how to contribute to Drupal.
 
 ------
-## drupalmentoring.org 
-
-![drupalmentoring.org](assets/websites-core-mentoring.png)
-
-Note: This is also not a Drupal Association supported website, but is the home of Core Mentors. Drupal core mentors inspire, enable, and encourage new core contributors. They also work on the core tools, process, and community to make it easier for new contributors to get involved.
-
-------
 ## Drupal.org Account
 
 Also gets you in to:
@@ -110,8 +101,6 @@ Also gets you in to:
 
 
 ====================================
-
-------
 ## The Issue Queue
 
 The community todo list
@@ -126,8 +115,13 @@ Note: This is all a brief tour of the core issue queue and hands-on creating an 
 - https://dreditor.org/
 
 ======================================
+## Getting All the Files
 
------
+- Installing BTSync
+- https://drupal.org/dctdi
+
+
+======================================
 ## IRC (Internet Relay Chat)
 
 Real time communication with other Drupal developers around the world.
@@ -145,8 +139,10 @@ Real time communication with other Drupal developers around the world.
 
 - Web-based clients
     - webchat.freenode.net
-- Application clients
-    - Pidgin (Adium on Mac) - pidgin.im
+- Application clients (you don't need to download these now)
+    - LimeChat (Mac) - http://limechat.net/mac/
+    - XChat (Linux)  - http://xchat.org/
+    - XChat (Win)    - http://www.silverex.org/download/
     - ChatZilla (Firefox extension)
 
 -----
@@ -166,12 +162,7 @@ Real time communication with other Drupal developers around the world.
 -----
 ## Install an IRC Client
 
-Pidgin (http://pidgin.im) is cross-platform, but changes names.
-
-- Mac OS X: Adium
-- Windows: Pidgin
-- Ubuntu: Pidgin shipped with it
-- Other Linux distros: see if there is a package
+You'll have an opportunity to install an IRC client during the community tools install process
 
 -----
 ## Choose a Nickname
@@ -203,8 +194,6 @@ Note: Give everyone a few minutes to get logged in and type a "hello" message in
 Note: There will be lots of conversations happening at the same time in a channel. Using a person’s name helps to track the conversation. Starting a conversation. Private conversations.
 
 =======================================
-
------
 ## Local Dev Environment
 
 Not just for programmers
@@ -228,29 +217,25 @@ Not just for programmers
 -----
 ## How?
 
-You need a web server with PHP:
+You need a web stack with the following components:
 
-- Mac: MAMP
-- Windows: WAMP
-- Linux: packages in your distro
+- Apache web server
+- PHP application server
+- MySQL database server
 
-A way to move your work
+<br>A way to move your work
 
 - (S)FTP
 - Version control
 
 -----
-## Web Servers
+## Web Stacks
 
-- Mac OS X: MAMP http://mamp.info
-- Windows: WAMP http://wampserver.com
-- Ubuntu: tasksel and lamp-server
-  - sudo apt-get install tasksel
-  - sudo tasksel install lamp-server
+- Mac OS X: Acquia Dev Desktop
+- Windows: Acquia Dev Desktop
+- Ubuntu: Bitnami Drupal Stack
 
 =========================================
-
------
 ## Version Control and Git
 
 -----
@@ -272,17 +257,17 @@ A way to move your work
 -----
 ## Why Git?
 
-The Drupal.org community uses it
+The Drupal.org community uses it<br>
 http://groups.drupal.org/node/48818
 
 =========================================
-
------
 ## What We're Doing
 
-- Install a web server
-- Install Git
-- Clone and Install Drupal 8 with Git
+- Optionally install an IRC Client
+- Install a full web stack
+- Install and configure Git
+- Clone Drupal 8 with Git
+- Install a Drupal 8 site
 
 -----
 ## Groups
@@ -292,18 +277,13 @@ http://groups.drupal.org/node/48818
 - Do you have AMP installed?
 
 ------
-## Quick Summary
+## Demonstration
 
-AMP Stack
+- Running through installation
 
-- Mac OS X: http://mamp.info
-- Windows: http://wampserver.com
-- Ubuntu: tasksel and lamp-server
+------
+## Install fest
+Install AMP Stack Git and Drupal 8
 
-Git 
+- https://drupal.org/dctdi
 
-- http://git-scm.com
-
-Drupal 8
-
-- git clone --branch 8.x http://git.drupal.org/project/drupal.git
