@@ -1,4 +1,5 @@
-## Drupal Community Tools
+# First Time Sprinters Workshop
+aka. Drupal Community Tools
 
 Note: These slides go with the Community Tools curriculum which can be found at http://drupalize.me/community-tools
 
@@ -188,6 +189,7 @@ Note: Give everyone a few minutes to get logged in and type a "hello" message in
 
 - Ping!
 - Use names in conversation to help track.
+![IRC Mention](assets/irc-mention.png)
 - Keep conversation in public channels.
 - Private Messages (PM) should start with a request in a public channel.
 
