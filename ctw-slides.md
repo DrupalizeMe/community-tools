@@ -12,11 +12,11 @@ Note: These slides go with the Community Tools curriculum which can be found at 
 -------
 ## Our Tools
 
-- Communication tools
+- **Communication tools**
     - Community websites
     - Issue queues
     - IRC
-- Local development environment
+- **Local development environment**
    - Web Stack
    - Git
 
@@ -84,6 +84,13 @@ Note: The Drupal Association exists to support the Drupal community. It doesn't 
 ![drupallader.org](assets/websites-drupalladder.png)
 
 Note: This is not a Drupal Association supported website but was brought about by members of the Drupal community who are passionate about educating people on how to contribute to Drupal.
+
+------
+## drupical.com
+
+![drupical.com](assets/websites-drupical.png)
+
+Note: Not a Drupal Association support site, but serves a nice/different visualization on top of the g.d.o. events feed.
 
 ------
 ## Drupal.org Account
