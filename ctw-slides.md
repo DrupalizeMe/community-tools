@@ -157,7 +157,7 @@ More info: [drupal.org/irc](https://www.drupal.org/irc)
 
 - Web-based clients
     - webchat.freenode.net
-- Application clients (you don't need to download these now)
+- Application clients (included in BTSync files, or choose one)
     - LimeChat (Mac) - http://limechat.net/mac/
     - XChat (Linux)  - http://xchat.org/
     - XChat (Win)    - http://www.silverex.org/download/
