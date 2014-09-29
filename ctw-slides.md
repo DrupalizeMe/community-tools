@@ -26,14 +26,14 @@ Note: What OS are people on? What “category” : site builder, dev, themer, de
 ## Community Websites
 
 ------
-## drupal.org 
+## drupal.org (d.o)
 
 ![drupal.org](assets/websites-do.png)
 
 Note: This is where the work of the Drupal Community lives. Code, handbooks, support forums, and issue queues — all contributed by the community — live here on drupal.org.
 
 ------
-## groups.drupal.org 
+## groups.drupal.org (g.d.o)
 
 ![groups.drupal.org](assets/websites-gdo.png)
 
@@ -65,7 +65,7 @@ Note: using the groups tab makes it easier to refine groups instead of just keyw
 Note: A good place to start on g.d.o is to search for a group in your geographical area. Other types of groups are those formed around the intersection of Drupal and another area of common ground, for example, Drupal in Higher Education. Working groups also exist where discussion and information about technical projects are organized.
 
 ------
-## api.drupal.org 
+## api.drupal.org (api.d.o)
 
 ![api.drupal.org](assets/websites-api.do.png)
 
