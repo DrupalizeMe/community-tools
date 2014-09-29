@@ -107,6 +107,14 @@ Also gets you in to:
 
 ![drupal.org/user](assets/websites-do-create-account.png)
 
+------
+## Bonus Round: Groups
+
+Find & join the demo group created for these sprints.
+
+![https://groups.drupal.org/i-was-drupalcon-sprint-participant](assets/activity-join-group.png)
+
+Notes: Lots of possible solutions. One way search for "drupalcon sprint", filter to just groups, find it in the list, and join.
 
 ====================================
 ## The Issue Queue
