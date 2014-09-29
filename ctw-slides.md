@@ -65,6 +65,13 @@ Note: using the groups tab makes it easier to refine groups instead of just keyw
 Note: A good place to start on g.d.o is to search for a group in your geographical area. Other types of groups are those formed around the intersection of Drupal and another area of common ground, for example, Drupal in Higher Education. Working groups also exist where discussion and information about technical projects are organized.
 
 ------
+## drupical.com
+
+![drupical.com](assets/websites-drupical.png)
+
+Note: Not a Drupal Association support site, but serves a nice/different visualization on top of the g.d.o. events feed.
+
+------
 ## api.drupal.org (api.d.o)
 
 ![api.drupal.org](assets/websites-api.do.png)
@@ -84,13 +91,6 @@ Note: The Drupal Association exists to support the Drupal community. It doesn't 
 ![drupallader.org](assets/websites-drupalladder.png)
 
 Note: This is not a Drupal Association supported website but was brought about by members of the Drupal community who are passionate about educating people on how to contribute to Drupal.
-
-------
-## drupical.com
-
-![drupical.com](assets/websites-drupical.png)
-
-Note: Not a Drupal Association support site, but serves a nice/different visualization on top of the g.d.o. events feed.
 
 ------
 ## Drupal.org Account
