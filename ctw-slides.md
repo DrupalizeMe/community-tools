@@ -142,6 +142,8 @@ Note: This is all a brief tour of the core issue queue and hands-on creating an 
 
 Real time communication with other Drupal developers around the world.
 
+More info: [drupal.org/irc](https://www.drupal.org/irc)
+
 -----
 ## What You Need to Use IRC
 
