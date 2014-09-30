@@ -134,7 +134,7 @@ Note: This is all a brief tour of the core issue queue and hands-on creating an 
 ## Getting All the Files
 
 - Installing BTSync
-- https://drupal.org/dctdi
+- https://drupal.org/tools
 
 
 ======================================
@@ -304,5 +304,5 @@ http://groups.drupal.org/node/48818
 ## Install fest
 Install AMP Stack Git and Drupal 8
 
-- https://drupal.org/dctdi
+- https://drupal.org/tools
 
