@@ -274,10 +274,11 @@ You need a web stack with the following components:
 - Easily move/update code in many places
 
 -----
-## Why Git?
+## How?
 
-The Drupal.org community uses it<br>
-http://groups.drupal.org/node/48818
+Routine commands are almost all copy/paste.
+
+![Location of common git commands](assets/git-commands.png)
 
 =========================================
 ## What We're Doing
